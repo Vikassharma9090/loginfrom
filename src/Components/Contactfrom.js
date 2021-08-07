@@ -92,6 +92,7 @@ const Contactfrom = () => {
 
   return (
     <>
+    <h1>Contact From</h1>
       <div className="container w-50 mt-5">
         <form>
           <div className="form-group">
