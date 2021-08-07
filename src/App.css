@@ -42,3 +42,6 @@
     box-shadow: 0 0 32px 0 rgb(158 158 158 / 39%);
     transition: all ease 0.8s;
 }
+.text-center{
+  margin-top: 33px;
+}
