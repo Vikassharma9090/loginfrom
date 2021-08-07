@@ -8,7 +8,7 @@ import Contactfrom from './Components/Contactfrom';
 function App() {
   return (
     <>
-     <h1>Contact From</h1>
+     
       <Contactfrom/>
     </>
   );
