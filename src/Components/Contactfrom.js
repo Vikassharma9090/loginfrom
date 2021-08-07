@@ -92,7 +92,7 @@ const Contactfrom = () => {
 
   return (
     <>
-    <h1 className="text-center ">Contacts From</h1>
+    <h1 className="text-center mt-3">Contacts From</h1>
       <div className="container w-50 mt-5">
         <form>
           <div className="form-group">
